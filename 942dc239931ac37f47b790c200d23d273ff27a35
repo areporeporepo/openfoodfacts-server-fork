@@ -1,0 +1,23 @@
+taxonomies/food/categories.txt
+  48cb66f1d4e877b5 69419,69595,70103,70238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "942dc239931ac37f47b790c200d23d273ff27a35",
+  "prompts": {
+    "48cb66f1d4e877b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64bba69f-78f2-4d7a-afb5-f330ca053163",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "anh nguyen <anh.nqqq@icloud.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
